@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Victoria_Benedictsson
     - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44248#TelefoonissaYksin-yt-ksinen-kuvaus
 gutenberg_issued: '2013-11-21'
 gutenberg_type: Text
 identifiers:
